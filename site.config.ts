@@ -3,7 +3,7 @@ import { siteConfig } from './lib/site-config'
 export default siteConfig({
   // the site's root Notion page (required)
 //  rootNotionPageId: '7875426197cf461698809def95960ebf',
-    rootNotionPageId: 'd979c6e9d54142bfb3af1fb1d289f4d4',
+    rootNotionPageId: 'Fashion-Design-Guide-0cf06bd08edf42eeacb2c60e5f7fced3',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -11,7 +11,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Mango\'s Fashion Site',
-  domain: 'https://www.notion.so/mangodu/d979c6e9d54142bfb3af1fb1d289f4d4',
+  domain: 'https://www.notion.so/mangodu/Fashion-Design-Guide-0cf06bd08edf42eeacb2c60e5f7fced3',
   author: 'Mango Du',
 
   // open graph metadata (optional)
